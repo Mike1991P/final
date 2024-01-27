@@ -35,7 +35,7 @@ void Print (string[] array)
     }
     Console.WriteLine();
 }
-Console.Write("Введите набор символов через знак (,) - ");
+Console.Write("Введите набор символов через запятую - ");
 string inStringSimvol = Console.ReadLine();
 string[] arraySimvol = GetArrayStringConsole(inStringSimvol);
 Console.WriteLine();
