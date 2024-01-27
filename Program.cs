@@ -39,6 +39,6 @@ Console.Write("Введите набор символов через знак (,
 string inStringSimvol = Console.ReadLine();
 string[] arraySimvol = GetArrayStringConsole(inStringSimvol);
 Console.WriteLine();
-Console.Write("Введенные символы длинной меньше либо равны трём - ");
+Console.Write("Массивы с тремя или менее символами - ");
 Print(GetArrayThreeSimvol(arraySimvol));
 Console.WriteLine();
