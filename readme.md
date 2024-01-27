@@ -75,4 +75,4 @@ Console.WriteLine();
 ---
 ---
 # Блок схема (диаграмма) решения данной задачи 
-![диаграмма](/control_work_001.drawio.png)
+![Блок Схема](/BSCHEME.png)
